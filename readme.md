@@ -1,7 +1,7 @@
 # Text_Generation_with_LSTM
 
 ## Overview  
-This repository implements a text​‑generation project using an LSTM (Long Short​‑Term Memory) neural network. The goal is to train a model to generate coherent text sequences by learning patterns from the book ‘Alice in Wonderland’ written by Lewis Carroll, which was published in the public domain under the gutenberg project.
+This repository implements a text​‑generation project using an LSTM (Long Short​‑Term Memory) neural network. The goal is to train a model to generate coherent text sequences by learning patterns from the book ‘Alice in Wonderland’ written by Lewis Carroll, which was published in the public domain under the Gutenberg Project.
 
 ## Contents  
 - `Text_Generation_with_LSTM.ipynb` – A Jupyter notebook that includes the whole workflow: data loading → preprocessing → model definition (LSTM) → training → text generation.  
